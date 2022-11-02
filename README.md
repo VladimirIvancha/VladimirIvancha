@@ -43,4 +43,4 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=VladimirIvancha.Vladimir-Ivancha)
 
-https://www.codewars.com/users/VladimirIvancha/badges/large
+ [![Codewars](https://www.codewars.com/users/VladimirIvancha/badges/large)](https://www.codewars.com/users/VladimirIvancha/badges/large)
