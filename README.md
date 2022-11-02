@@ -41,6 +41,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirIvancha)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=VladimirIvancha.Vladimir-Ivancha)
+[![Codewars](https://www.codewars.com/users/VladimirIvancha/badges/large)](https://www.codewars.com/users/VladimirIvancha/badges/large)
 
- [![Codewars](https://www.codewars.com/users/VladimirIvancha/badges/large)](https://www.codewars.com/users/VladimirIvancha/badges/large)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=VladimirIvancha.Vladimir-Ivancha)
