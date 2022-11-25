@@ -44,3 +44,5 @@
 [![Codewars](https://www.codewars.com/users/VladimirIvancha/badges/large)](https://www.codewars.com/users/VladimirIvancha/badges/large)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=VladimirIvancha.Vladimir-Ivancha)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirIvancha&layout=compact&theme=vision-friendly-default)](https://github.com/anuraghazra/github-readme-stats)
