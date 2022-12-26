@@ -53,4 +53,4 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=VladimirIvancha.Vladimir-Ivancha)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirIvancha&layout=compact&theme=vision-friendly-default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirIvancha&layout=compact&theme=vision-friendly-default&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
